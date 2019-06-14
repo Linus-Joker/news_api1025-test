@@ -10,12 +10,10 @@ clone and go into this repository
 git clone https://github.com/Linus-Joker/news_api1025-test.git
 
 ```
-install dependencies and run
+use project
 
 ```
-npm install
-npm start
-http://localhost:3000/test
+run index.html
 ```
 
 # Finish Picture
