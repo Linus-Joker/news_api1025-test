@@ -1,8 +1,8 @@
 
 
-# Vue News Api1025 TEST
+# Vue News Api1025 Test
 
-##Getting Started
+## Getting Started
 
 clone and go into this repository
 
