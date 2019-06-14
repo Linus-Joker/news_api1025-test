@@ -1,14 +1,12 @@
-# vue api 
+# Vue Web Api_test 
 
 # news_api1025
-
-vue-cli news_api1025 test
 
 clone and go into this repository
 
 ```
-git clone https://github.com/Linus-Joker/Express0813.git
-cd Express0813
+git clone https://github.com/Linus-Joker/news_api1025-test.git
+
 ```
 install dependencies and run
 
